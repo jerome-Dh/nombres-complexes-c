@@ -1,7 +1,7 @@
 ## Nombres complexes
 
 # Description du projet
-Utiisés en mathématiques, Les nombres complexes constituent un sujet très varié et parfois complexe.
+Utilisés en mathématiques, Les nombres complexes constituent un sujet très varié et parfois complexe.
 
 Ils sont utilisés dans bien de domaines tels que la topologie, la mécanique des fluides et bien d'autres.
 
