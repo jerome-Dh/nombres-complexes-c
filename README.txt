@@ -26,6 +26,8 @@ Cette bibliothèque, écrite en langage C fourni des fonctions suivantes :
 	* Racine carré d'un nombre complexe
 	* Puissance N d'un nombre complexe
 	
+	Chacune de ces fonctions constitue une opération élémentaire sur les nombres complexes.
+	
 <h2>Utilisation</h2>
 
 Les fichiers "LibComplexe.h" et "LibComplexe.c" constituent l'essentiel du code nécéssaire pour effectuer les calculs
