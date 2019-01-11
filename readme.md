@@ -1,6 +1,6 @@
- 	## Nombres complexes
+ 	### Nombres complexes
 	
-	# Description du projet
+	## Description du projet
 	Utilisés en mathématiques, Les nombres complexes constituent un sujet très varié et parfois complexe.
 	
 	Ils sont utilisés dans bien de domaines tels que la topologie, la mécanique des fluides et bien d'autres.
@@ -28,7 +28,7 @@
 	
 	Chacune de ces fonctions constitue une opération élémentaire sur les nombres complexes.
 	
-	# Utilisation
+	## Utilisation
 	
 	Les fichiers "LibComplexe.h" et "LibComplexe.c" constituent l'essentiel du code nécéssaire pour effectuer les calculs
 	sur les nombres complexes, cependant il peut s'avérer difficile pour un débutant.
@@ -37,9 +37,9 @@
 	
 	Et en fin le fichier "main.c" sert à définir un menu et lance l'opération selon un choix precis.
 	
-	# Exemples
+	## Exemples
 	Des exemples d'utilisation se trouvent dans le fichier "Calculs.c"
 	
-	# Contributeurs
+	## Contributeurs
 	
 	Jerome Dh https://www.linkedin.com/in/jerome-dh/
